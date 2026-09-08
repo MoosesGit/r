@@ -12,6 +12,12 @@
       "type": "dynamic",
       "destination": "https://www.instagram.com/thecollectorsthrone",
       "note": "Instagram. Engraved on the back of display pieces."
+    },
+    {
+      "slug": "dr-bilal-assi",
+      "type": "dynamic",
+      "destination": "https://www.instagram.com/thecollectorsthrone",
+      "note": "Dr Bilal Assi. Points at the Instagram for now; separate slug so it can be repointed without touching the /insta codes."
     }
   ]
 }
