@@ -1,0 +1,17 @@
+# Generated print assets. Reproducible from links.json via `python _qr/build.py`.
+_qr/out/
+
+# Sensitive values referenced from links.json as ${NAME} (WiFi passwords, phone
+# numbers, anything that should not be readable if this repo is public).
+_qr/secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,6 @@
+# build.py writes LF and compares bytes to decide whether a file changed. If git
+# checked these out as CRLF, every run would see a difference and rewrite every
+# redirect page, producing endless spurious diffs. Pin LF in the working tree.
+* text=auto eol=lf
+
+*.png binary

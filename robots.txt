@@ -1,0 +1,5 @@
+# This subdomain is a QR redirect layer only. Nothing here is meant to be
+# indexed, crawled, or discovered. Every page also carries <meta name="robots"
+# content="noindex,nofollow">.
+User-agent: *
+Disallow: /

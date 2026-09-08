@@ -1,0 +1,17 @@
+{
+  "base_url": "https://qr.mabdulhussein.com",
+  "links": [
+    {
+      "slug": "shop",
+      "type": "dynamic",
+      "destination": "https://thecollectorsthrone.etsy.com",
+      "note": "Etsy shop. Card dropped in every shipped order."
+    },
+    {
+      "slug": "insta",
+      "type": "dynamic",
+      "destination": "https://www.instagram.com/thecollectorsthrone",
+      "note": "Instagram. Engraved on the back of display pieces."
+    }
+  ]
+}
